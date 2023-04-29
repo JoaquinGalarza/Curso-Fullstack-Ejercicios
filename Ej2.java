@@ -1,4 +1,4 @@
-public class Main {
+public class Ej2 {
     public static void main(String[] args) {
         int numeroIf = -2;
         int numeroWhile = 0;
