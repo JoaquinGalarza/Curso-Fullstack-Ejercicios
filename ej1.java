@@ -1,4 +1,4 @@
-public class Main {
+public class ej1 {
     public static void main(String[] args) {
         sumatoria(10, 20, 30);
         coche miCoche = new coche();
